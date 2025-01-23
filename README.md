@@ -1,8 +1,8 @@
-<center>
+<div align="center">
     ## Hi there! I'm Shalini Tigga 🍀
-</center>
+</div>
 
-<br>
+<br> <br>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f" alt="Banner" width="100%" />
 </div>
