@@ -1,14 +1,12 @@
-<div align="center">
-  ![86d75a902dda5a4c6ac4b95d8a5afba4](https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f)
-</div>
+![86d75a902dda5a4c6ac4b95d8a5afba4](https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f)
 
 # Hi there! I'm Shalini Tigga
 
 
-# 🟢 About Me:
+## 🟢 About Me:
 🔰 Software Development Engineer<br>🐸 Currently working on something interesting<br>🧃 Learning Machine Learning<br>🍏 Fun Fact: Completed over 100 hard levels of Solitaire and now aiming to achieve the same feat with FreeCell.<br>💚 Feel free to ask me about anything!
 
-# 🟢 Languages
+## 🟢 Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -36,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-# 🟢 Social Media Handles
+## 🟢 Social Media Handles
 
 <div align="left">
   <a href="www.linkedin.com/in/shalini-tigga-py26thon" target="_blank">
@@ -52,7 +50,7 @@
 
 ###
 
-# 🟢 GitHub Stats:
+## 🟢 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shalini-Tigga&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shalini-Tigga&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini-Tigga&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
