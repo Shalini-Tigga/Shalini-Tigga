@@ -10,7 +10,7 @@
 ### 🪴 About Me:
 🔰 Software Development Engineer<br>🐸 Currently working on something interesting<br>🧃 Learning Machine Learning<br>🍏 Fun Fact: Completed over 100 hard levels of Solitaire and now aiming to achieve the same feat with FreeCell.<br>💚 Feel free to ask me about anything!
 
-### 📗 Languages
+### 📗 Languages:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-### 🌱 Social Media Handles
+### 🌱 Social Media Handles:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shalini-tigga-py26thon" target="_blank">
