@@ -1,5 +1,7 @@
-# Hi there! I'm Shalini Tigga
+<center>
 ![86d75a902dda5a4c6ac4b95d8a5afba4](https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f)
+</center>
+# Hi there! I'm Shalini Tigga
 
 
 # 💫 About Me:
@@ -57,7 +59,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shalini-Tigga&icon=7&color=3)](https://visitcount.itsvg.in)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31aj4bhn7usrzbuuydeifdqalpre)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31aj4bhn7usrzbuuydeifdqalpre&unique={true|1|on|yes})
 
 
 
