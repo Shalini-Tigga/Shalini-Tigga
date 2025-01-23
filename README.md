@@ -1,6 +1,6 @@
-<center>
-![86d75a902dda5a4c6ac4b95d8a5afba4](https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f)
-</center>
+<div align="center">
+  ![86d75a902dda5a4c6ac4b95d8a5afba4](https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f)
+</div>
 
 # Hi there! I'm Shalini Tigga
 
