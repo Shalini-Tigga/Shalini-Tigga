@@ -1,14 +1,14 @@
 
-## Hi there! I'm Shalini Tigga
+## Hi there! I'm Shalini Tigga 🍀
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f" alt="Banner" width="500" />
+    <img src="https://github.com/user-attachments/assets/03ea252a-a9bc-4217-9190-e2a9c2d3ed1f" alt="Banner" width="100%" />
 </div>
 
-### 🟢 About Me:
+### 🪴 About Me:
 🔰 Software Development Engineer<br>🐸 Currently working on something interesting<br>🧃 Learning Machine Learning<br>🍏 Fun Fact: Completed over 100 hard levels of Solitaire and now aiming to achieve the same feat with FreeCell.<br>💚 Feel free to ask me about anything!
 
-### 🟢 Languages
+### 📗 Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -36,10 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-### 🟢 Social Media Handles
+### 🌱 Social Media Handles
 
 <div align="left">
-  <a href="www.linkedin.com/in/shalini-tigga-py26thon" target="_blank">
+  <a href="https://www.linkedin.com/in/shalini-tigga-py26thon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/shalinitigga26" target="_blank">
@@ -52,13 +52,12 @@
 
 ###
 
-### 🟢 GitHub Stats:
+### 🧩 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shalini-Tigga&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shalini-Tigga&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini-Tigga&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shalini-Tigga&icon=7&color=3)](https://visitcount.itsvg.in)
 
 
 
