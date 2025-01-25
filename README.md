@@ -61,7 +61,7 @@
 
 ---
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Shalini-Tigga)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
